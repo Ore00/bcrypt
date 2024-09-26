@@ -8,3 +8,7 @@ language = "nodejs"
   packageSearch = true
   guessImports = true
   enabledForHosting = false
+
+[[ports]]
+localPort = 3000
+externalPort = 80
